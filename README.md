@@ -16,4 +16,3 @@ b.	If the molecule only contains one specific element atom, you need to add numb
 c.	For each molecule(-fragment) to be corrected, the number of atoms of all elements relevant for correction needs to be given in a sum formula, for example: C6H12O2N1LabC2. The prefix Lab marks the tracer element. In the example, C6 indicates that there are in total 6 atoms of carbon in the molecule or fragment considered. Then, LabC2 provides the information that of those 6 carbons, 2 positions may actually be labeled due to incorporation from the tracer substrate. The other 4 positions cannot contain tracer from the tracer substrate e.g. because they stem from derivatization.  
 
 If any question, please check 6.1.1 in IsoCorrectoR vignettes [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/IsoCorrectoRGUI/inst/doc/IsoCorrectoRGUI.html#input-files-and-parameters).
-<code style="color : green">ABC</code>
