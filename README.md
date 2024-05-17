@@ -1,2 +1,2 @@
 # IsoCorrectoRBoost
-This is a package for Natural Isotopes Abundance (NIA) correction based on IsoCorrectoR (Heinrich P, Kohler C, Ellmann L, Kuerner P, Spang R, Oefner PJ, Dettmer K (2018). “Correcting for natural isotope abundance and tracer impurity in MS-, MS/MS- and high-resolution-multiple-tracer-data from stable isotope labeling experiments with IsoCorrectoR.” Scientific reports, 8(1). <https://genomics.ur.de/files/IsoCorrectoR/.>) package from Bioconductor. 
+This is a package for Natural Isotopes Abundance (NIA) correction based on IsoCorrectoR ([Heinrich P,etc. (2018)] <https://genomics.ur.de/files/IsoCorrectoR/.>) package from Bioconductor. 
