@@ -17,3 +17,4 @@ c.	For each molecule(-fragment) to be corrected, the number of atoms of all elem
 
 If any question, please check 6.1.1 in IsoCorrectoR vignettes [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/IsoCorrectoRGUI/inst/doc/IsoCorrectoRGUI.html#input-files-and-parameters).
 This is a <span style="color:Red">sentence</span> in a README.md file.
+<a href="https://home.dartmouth.edu/"><span style="color:Green"><strong>Dartmouth College</strong></span></a>
