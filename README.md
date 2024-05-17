@@ -10,3 +10,4 @@ All the elements that occur in the molecules to be corrected. See example: [Elem
 If any question, please check 6.1.3 in IsoCorrectoR vignettes [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/IsoCorrectoRGUI/inst/doc/IsoCorrectoRGUI.html#input-files-and-parameters).
 ### Molecule File
 All the molecules to be corrected. See example: [MoleculeFile](data_source/MoleculeFile.csv)
+If any question, please check 6.1.1 in IsoCorrectoR vignettes [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/IsoCorrectoRGUI/inst/doc/IsoCorrectoRGUI.html#input-files-and-parameters).
