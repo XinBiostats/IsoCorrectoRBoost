@@ -1,2 +1,2 @@
-Main scripts: **main.R**.
-Dependencies.**source.R** and **util.R**.
+Main scripts: **main.R**.  
+Dependencies: **source.R** and **util.R**.
