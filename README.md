@@ -4,4 +4,4 @@ This is a faster tool for Natural Isotopes Abundance (NIA) correction based on *
 ## Data Preparation
 We need 3 files for NIA stripping: Measurement File, Element File and Molecule File.
 ### Measurement File
-This file contains the measured data that needs to be corrected. See example here: MeasurementFile
+This file contains the measured data that needs to be corrected. See example: MeasurementFile
