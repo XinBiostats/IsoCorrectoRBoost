@@ -1,8 +1,6 @@
 wd <- '/Users/xin.ma/Desktop/sunlab/NIA/dataset1/'
 setwd(wd)
 
-library(dplyr)
-library(data.table)
 source('./code/source.R')
 source('./code/util.R')
 
