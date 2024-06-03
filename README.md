@@ -21,4 +21,4 @@ If any question, please check 6.1.1 in IsoCorrectoR vignettes [here](https://www
 [**main.R**](code/main.R) is the main script to execute correction. Three steps to perform correction:
 - **1:** Reformat input datasets to meet requirements.
 - **2:** Qulity control (QC) for input data.
-- **3:** NIA Correct. (Parallel is not comptible with Windows OS)
+- **3:** NIA Correct.
